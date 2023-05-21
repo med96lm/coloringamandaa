@@ -1,24 +1,32 @@
-bannerIDBegin      bannerIDLast
-interstitialIDBegin            interstitialIDLast
-rewardIDBegin           rewardIDlast
+  "ironsource_app_key": "xxxx",
+  "ironsource_banner_id": "xxxx",
+  "ironsource_interstitial_id": "xxxx",
+  "ironsource_rewarded_id": "xxxx",
+ 
+ 
+  "applovin_banner_id": "xxxx",
+  "applovin_interstitial_id": "xxxx",
+  "applovin_rewarded_id": "xxxx",
+  "max": true,
+  
+  "admob_banner": "ca-app-pub-3940256099942544/6300978111",
+  "admob_interstitial": "ca-app-pub-3940256099942544/1033173712",
+  "admob_rewarded": "ca-app-pub-3940256099942544/5224354917",
+  
+  "facebook_banner": "xxxx",
+  "facebook_interstitial": "xxxx",
+  "facebook_rewarded": "xxxx",
+  
+  "unity_banner_id": "xxxx",
+  "unity_interstitial_id": "xxxx",
+  "unity_rewarded_id": "xxxx",
+  "unity_app_id": "xxxx",
+  "is_unity_test_mode": true,
+  
 
-FANbannerIDBegin             FANbannerIDLast
-FANinterstitialIDBegin        FANinterstitialIDLast
-FANrewardIDBegin        FANrewardIDLast
-
-UnityAppIdIDBegin    UnityAppIdIDLast
-unitybannerIDBegin                   unitybannerIDLast
-unityinterstitialIDBegin     unityinterstitialIDLast
-unityrewardIDBegin            unityrewardIDLast	
-
-
-AplovinsdkIDBegin                  AplovinsdkIDLast
-AplovinbannerIDBegin      AplovinbannerIDLast
-AplovininterstitialIDBeginccccccccccccccccccAplovininterstitialIDLast
-AplovinrewardIDBeginccccccccccccccccccccccccAplovinrewardIDLast	
-
-
-irssdkIDBegin             irssdkIDLast
-irsbannerIDBegin           irsbannerIDLast
-irsinterstitialIDBegin           irsinterstitialIDLast
-irsrewardIDBegin             irsrewardIDLast
+  "Interstitial": "admob",
+  "Banner": "admob",
+  "Rewarded": "admob",
+  
+  
+  "onesignal_id": "xxxxxxx"
