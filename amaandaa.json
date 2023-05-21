@@ -9,11 +9,11 @@
   "applovin_banner_id": "xxxx",
   "applovin_interstitial_id": "xxxx",
   "applovin_rewarded_id": "xxxx",
-  "max": true,
+  "max": false,
   
   "admob_banner": "ca-app-pub-3940256099942544/6300978111",
-  "admob_interstitial": "ca-app-pub-3940256099942544/1033173712",
-  "admob_rewarded": "ca-app-pub-3940256099942544/5224354917",
+  "admob_interstitial": "xxxxxxxxxxxxxxx",
+  "admob_rewarded": "xxxxxxxxxxxx",
   
   "facebook_banner": "xxxx",
   "facebook_interstitial": "xxxx",
@@ -23,7 +23,7 @@
   "unity_interstitial_id": "xxxx",
   "unity_rewarded_id": "xxxx",
   "unity_app_id": "xxxx",
-  "is_unity_test_mode": true,
+  "is_unity_test_mode": false,
   
 
   "Interstitial": "admob",
