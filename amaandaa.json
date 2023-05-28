@@ -1,7 +1,7 @@
 {
 	
-  "ironsource_app_key": "xxxx",
-  "ironsource_banner_id": "xxxx",
+  "ironsource_app_key": "1a104e015",
+  "ironsource_banner_id": "DefaultBanner",
   "ironsource_interstitial_id": "xxxx",
   "ironsource_rewarded_id": "xxxx",
  
@@ -20,9 +20,9 @@
   "facebook_rewarded": "xxxx",
   
   "unity_banner_id": "xxxx",
-  "unity_interstitial_id": "xxxx",
-  "unity_rewarded_id": "xxxx",
-  "unity_app_id": "xxxx",
+  "unity_interstitial_id": "Interstitial_Android",
+  "unity_rewarded_id": "Rewarded_Android",
+  "unity_app_id": "5294199",
   "is_unity_test_mode": false,
   
 
